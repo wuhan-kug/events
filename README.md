@@ -1,6 +1,6 @@
 # Wuhan Kotlin User Group Events
 
-#### 2023 年7 月 23日 武汉、贵州、深圳 KUG 线上联合分享会活动：
+#### 2023 年7 月 23 日 武汉、贵州、深圳 KUG 线上联合分享会活动：
 
 - 活动完整回放：https://www.bilibili.com/video/BV1aX4y1n75r/?share_source=copy_web&vd_source=6cd5aa3d2d138a9422b0d1b3f0f1d598 
 - KUG 趣味问答游戏
