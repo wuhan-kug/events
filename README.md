@@ -6,7 +6,7 @@
 - KUG 趣味问答游戏
   - 游戏活动规则介绍：https://github.com/wuhan-kug/events/issues/2
   - 游戏活动完整题库和结果：https://github.com/wuhan-kug/events/blob/main/2023-07-23-KUG-Fun-Game/Template/questions.md
-  - 游戏活动完整图片集：https://github.com/wuhan-kug/events/tree/main/2023-07-23-KUG-Fun-Game/images
+  - 游戏活动完整图片集：https://github.com/wuhan-kug/events/blob/main/2023-07-23-KUG-Fun-Game/Template/game-screenshot.md
 
 
 
